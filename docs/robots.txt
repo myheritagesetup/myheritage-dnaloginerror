@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://myheritage-dnaloginerror.readthedocs.io/en/latest/
